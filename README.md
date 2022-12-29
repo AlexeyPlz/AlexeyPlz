@@ -1,9 +1,8 @@
-<div>👋Hi, I’m Alexey👋</div>
-<div>✍️I work with the backend and know a little frontend✍️</div>
-<div>🧠Also train algorithms and learning the asynchronous side of python🧠</div>
-<pre>
+<div>👋 Hi, I’m Alexey.</div>
+<div>✍️ I work with the backend and know a little frontend.</div>
+<div>🧠 Also train algorithms and learning the asynchronous side of Python & Go.</div>
+<br>
 
-</pre>
 - Python, Go, HTML5, CSS3.
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Django, Django REST Framework, Flask, FastAPI, Scrapy
