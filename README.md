@@ -3,7 +3,7 @@
 <div>🧠 Also train algorithms and learning the asynchronous side of Python & Go.</div>
 <br>
 
-- Python, Go, HTML5, CSS3.
+- Python, Go, HTML5, CSS3
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Django, Django REST Framework, Flask, FastAPI, Scrapy
 - BeautifulSoup, Asyncio, aoihttp, unittest
