@@ -1,9 +1,9 @@
 Hi, I’m Alexey.
-I work with the backend.
+I work with the backend and know a little frontend.
 Also train algorithms and learning the asynchronous side of python.
 
 My stack:
-- Python
+- Python, Go, HTML5, CSS3.
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Django, Django REST Framework, Flask, FastAPI, Scrapy
 - BeautifulSoup, Asyncio, aoihttp, unittest
