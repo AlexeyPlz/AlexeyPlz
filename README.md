@@ -6,7 +6,7 @@
 - Python, Go, HTML5, CSS3
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Django, Django REST Framework, Flask, FastAPI, Scrapy
-- BeautifulSoup, Asyncio, aoihttp, unittest
+- Alembic, Pydantic, BeautifulSoup, Asyncio, aoihttp, unittest
 - Docker, NGINX, Gunicorn, Uvicorn, Google API
 - GitHub, GitHub Actions, Docker Hub, Yandex.Cloud, Bash, Linux Ubuntu, VSCode, Postman
 
