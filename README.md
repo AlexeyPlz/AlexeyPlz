@@ -1,6 +1,6 @@
 <div>👋 Hi, I’m Alexey.</div>
 <div>✍️ I work with the backend and know a little frontend.</div>
-<div>🧠 Also train algorithms and learn the asynchronous side of Python & Go.</div>
+<div>🧠 Also train algorithms and learn the asynchronous side of Python.</div>
 <br>
 
 - Python
