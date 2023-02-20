@@ -1,9 +1,9 @@
 <div>👋 Hi, I’m Alexey.</div>
 <div>✍️ I work with the backend and know a little frontend.</div>
-<div>🧠 Also train algorithms and write PET project.</div>
+<div>🧠 Also train algorithms and JavaScript.</div>
 <br>
 
-- Python
+- Python, HTML, CSS
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Django, Django REST Framework, Flask, FastAPI, Scrapy
 - Alembic, Pydantic, Jinja, BeautifulSoup, Asyncio, aoihttp, unittest
