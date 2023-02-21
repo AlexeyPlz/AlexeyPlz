@@ -3,7 +3,7 @@
 <div>🧠 Also train algorithms and JavaScript.</div>
 <br>
 
-- Python, HTML, CSS
+- Python, HTML5 CSS3
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Django, Django REST Framework, Flask, FastAPI, Scrapy
 - Alembic, Pydantic, Jinja, BeautifulSoup, Asyncio, aoihttp, unittest
