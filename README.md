@@ -1,6 +1,7 @@
 <div>👋 Hi, I’m Alexey.</div>
 <div>✍️ I work with the backend and know a little frontend.</div>
-<div>🧠 Also train algorithms and JavaScript.</div>
+<div>🧠 Also train algorithms and learn JavaScript.</div>
+<div>🤟 I really like cycling and <a href="https://steamcommunity.com/id/CyII4iK">computer games</a>.</div>
 <br>
 
 - Python, JavaScript, HTML5, CSS3
