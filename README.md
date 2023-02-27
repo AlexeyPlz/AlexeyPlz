@@ -4,7 +4,7 @@
 <div>🤟 I really like cycling and <a href="https://steamcommunity.com/id/CyII4iK">computer games</a>.</div>
 <br>
 
-- Python, JavaScript, HTML5, CSS3
+- Python, JavaScript
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Django, Django REST Framework, Flask, FastAPI, Scrapy
 - Alembic, Pydantic, Jinja, BeautifulSoup, Asyncio, aoihttp, unittest, Pytest
