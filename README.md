@@ -6,7 +6,7 @@
 
 - Python, JavaScript, HTML5, CSS3
 - SQL, SQLite, PostgreSQL, SQLAlchemy
-- Django, Django REST Framework, Flask, FastAPI, Scrapy
+- Django, DRF, Flask, FastAPI, Scrapy
 - Alembic, Pydantic, Jinja, BeautifulSoup, Asyncio, aoihttp, unittest, Pytest
 - Docker, Docker-compose, NGINX, Gunicorn, Uvicorn, Google API
 - GitHub, GitHub Actions, Docker Hub, Yandex.Cloud, Bash, Linux Ubuntu, VSCode, Postman
