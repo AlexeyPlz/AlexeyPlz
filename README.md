@@ -6,10 +6,10 @@
 
 - Python, JavaScript, HTML5, CSS3
 - SQL, SQLite, PostgreSQL, SQLAlchemy
-- Django, DRF, Flask, FastAPI, Scrapy
-- Alembic, Pydantic, Jinja, BeautifulSoup, Asyncio, aoihttp, unittest, Pytest
+- Django, DRF, Flask, FastAPI, Scrapy, BeautifulSoup, TelegramBot
+- Poetry, Alembic, Pydantic, Jinja, Asyncio, aoihttp, unittest, Pytest
 - Docker, Docker-compose, NGINX, Gunicorn, Uvicorn, Google API
-- GitHub, GitHub Actions, Docker Hub, Yandex.Cloud, Bash, Linux Ubuntu, VSCode, Postman
+- GitHub, GitHub Actions, Docker Hub, Yandex.Cloud, Yandex.Tracker, Yandex.Webmaster, Bash, Linux Ubuntu, VSCode, Postman
 
 <!---
 AlexeyPlz/AlexeyPlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
