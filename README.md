@@ -11,8 +11,8 @@
 - Django, DRF, Flask, FastAPI, Scrapy, BeautifulSoup, TelegramBot
 - Poetry, Alembic, Pydantic, Jinja, Asyncio, aoihttp, unittest, Pytest
 - Docker, Docker-compose, NGINX, Gunicorn, Uvicorn, Google API
-- GitHub, GitHub Actions, Docker Hub, Yandex.Cloud, Yandex.Tracker, Yandex.Webmaster, Bash, Linux Ubuntu, VSCode, Postman, Miro, Figma
-
+- GitHub, GitHub Actions, Docker Hub, Bash, Linux Ubuntu, VSCode, Postman
+- Yandex.Cloud, Yandex.Tracker, Yandex.Webmaster, Notion, Miro, Figma
 <!---
 AlexeyPlz/AlexeyPlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
