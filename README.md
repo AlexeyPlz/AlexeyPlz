@@ -7,7 +7,7 @@
 
 - Python3, HTML5, CSS3
 - SQL, SQLite, PostgreSQL, SQLAlchemy
-- Dramatiq, RabbitMQ;
+- Dramatiq, RabbitMQ, Redis, WebSocket;
 - Django, DRF, Flask, FastAPI, Scrapy, BeautifulSoup, TelegramBot
 - Poetry, Alembic, Pydantic, Jinja, Asyncio, aoihttp, unittest, Pytest
 - Docker, Docker-compose, NGINX, Gunicorn, Uvicorn, Google API
