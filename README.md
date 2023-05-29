@@ -5,7 +5,7 @@
 <div>🤟 I really like cycling and <a href="https://steamcommunity.com/id/CyII4iK">computer games</a>.</div>
 <br>
 
-- Python3, HTML5, CSS3
+- Python3, JavaScript, HTML5, CSS3
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Dramatiq, RabbitMQ, Redis, WebSocket;
 - Django, DRF, Flask, FastAPI, Scrapy, BeautifulSoup, TelegramBot
