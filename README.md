@@ -1,7 +1,7 @@
 <div>👋 Hi, I’m Alexey.</div>
 <div>✍️ I work with the backend and know a little frontend.</div>
 <div>⏰ A lot of work with the API and server configuration (Nginx, Docker, SSL and e.g.).</div>
-<div>🧠 Also train algorithms, learn Go and read Computer Science literature.</div>
+<div>🧠 Also train algorithms and read Computer Science literature.</div>
 <div>🤟 I really like cycling and <a href="https://steamcommunity.com/id/CyII4iK">computer games</a>.</div>
 <br>
 
