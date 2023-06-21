@@ -1,7 +1,8 @@
 <div>👋 Hi, I’m Alexey.</div>
 <div>✍️ I work with the backend and know a little frontend.</div>
 <div>⏰ A lot of work with the API and server configuration (Nginx, Docker, SSL and e.g.).</div>
-<div>🧠 Also train algorithms, read Computer Science literature, learn JS with Vue3 and have plan for Go with gRPC.</div>
+<div>🧠 Also train algorithms, learn JS with Vue3 and have plan for Go with gRPC.</div>
+<div>📓 Read "Grokking Algorithms", Mark Lutz's "Learning Python" and some Computer Science literature.</div>
 <div>🤟 I really like cycling.</div>
 <br>
 
