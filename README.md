@@ -1,7 +1,7 @@
 <div>👋 Hi, I’m Alexey.</div>
 <div>✍️ I work with the backend and know a little frontend.</div>
 <div>⏰ A lot of work with the API and server configuration (VPS, Nginx, Docker and e.g.).</div>
-<div>🧠 Also train algorithms, learn JS with Vue3 and have plans for Go with gRPC.</div>
+<div>🧠 Also train algorithms, deepen Python's knowledge, learn JS with Vue3 and have plans for Go with gRPC.</div>
 <div>📓 Read "Grokking Algorithms", Mark Lutz's "Learning Python" and some Computer Science literature.</div>
 <div>📝 Write my own <a href="https://github.com/AlexeyPlz/PET">PET</a> with Aiohttp & Asyncio.</div>
 <div>🤟 I really like cycling.</div>
