@@ -10,7 +10,7 @@
 - Python3, JavaScript, HTML5, CSS3, ............................................................................................C++ ???
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Dramatiq, RabbitMQ, Redis, WebSocket
-- FastAPI, Asyncio, Aoihttp, Django, DRF, Flask, Scrapy, TelegramBot
+- FastAPI, Asyncio, Aoihttp, Django, DRF, Flask, Vue3, Scrapy, TelegramBot
 - Poetry, Alembic, Pydantic, Jinja2, WTForms, TKinter, BeautifulSoup
 - Unittest, Pytest
 - Docker, Docker-compose, Nginx, Gunicorn, Uvicorn
