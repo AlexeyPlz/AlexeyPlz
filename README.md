@@ -11,11 +11,11 @@
 - SQL, SQLite, PostgreSQL, SQLAlchemy
 - Dramatiq, RabbitMQ, Redis, WebSocket
 - FastAPI, Asyncio, Aoihttp, Django, DRF, Flask, Vue3, Scrapy, TelegramBot
-- Poetry, Alembic, Pydantic, Jinja2, WTForms, TKinter, BeautifulSoup
+- Poetry, Pipenv, Alembic, Pydantic, Jinja2, WTForms, TKinter, BeautifulSoup
 - Unittest, Pytest
 - Docker, Docker-compose, Nginx, Gunicorn, Uvicorn
 - GitHub, GitHub Actions, Docker Hub, Bash, Linux Ubuntu, VSCode, Postman
-- Google API, Yandex.Cloud, Yandex.Tracker, Yandex.Webmaster, Notion, Miro, Figma
+- Yandex.Cloud, Yandex.Tracker, Yandex.Webmaster, Notion, Miro, Figma
 <!---
 and <a href="https://steamcommunity.com/id/CyII4iK">computer games</a>.
 AlexeyPlz/AlexeyPlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
