@@ -1,10 +1,10 @@
-<div>👋 Hi, I’m Alexey.</div>
+<div>👋 Hi, I’m Alexey & Work for <a href="https://net-vision.pro/">NetVision</a>.</div>
 <div>✍️ I work with the backend and know a little frontend.</div>
 <div>⏰ A lot of work with the API and server configuration (VPS, Nginx, Docker and e.g.).</div>
 <div>🧠 Also train algorithms, deepen Python's knowledge, learn JS with Vue3 and have plans for Go with gRPC.</div>
 <div>📓 Read "Grokking Algorithms", Mark Lutz's "Learning Python" and some Computer Science literature.</div>
 <div>📝 Write my own <a href="https://github.com/AlexeyPlz/PET">PET</a> with Aiohttp & Asyncio.</div>
-<div>🤟 I really like cycling.</div>
+<div>🤟 I really like cycling and <a href="https://steamcommunity.com/id/CyII4iK">computer games</a>.</div>
 <br>
 
 - Python3, JavaScript, HTML5, CSS3, ............................................................................................C++ ???
