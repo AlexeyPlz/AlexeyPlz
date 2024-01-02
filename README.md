@@ -3,7 +3,7 @@
 <div>⏰ A lot of work with microservices, ranging from simple handlers to cores for processing BigData and video streams.</div>
 <div>🧠 Also train <a href="https://leetcode.com/">algorithms</a>, deepen <a href="https://www.python.org/">Python</a>'s knowledge and learn <a href="https://go.dev/">Go</a>.</div>
 <div>📓 Read "Grokking Algorithms", Mark Lutz's "Learning Python" and some Computer Science literature.</div>
-<!--- <div>📝 Write my own <a href="https://github.com/AlexeyPlz/PET">PET</a> with Aiohttp & Asyncio.</div> --->
+<div>📝 Write my own <a href="https://github.com/AlexeyPlz/PET">PET</a>.</div>
 <div>🤟 I really like cycling and <a href="https://steamcommunity.com/id/CyII4iK">computer games</a>.</div>
 <br>
 
