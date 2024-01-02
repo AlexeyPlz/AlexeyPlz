@@ -1,23 +1,26 @@
-<div>👋 Hi, I’m Alexey & Work for <a href="https://net-vision.pro/">NetVision</a>.</div>
+<div>👋 Hi, I’m Alex & work for <a href="https://net-vision.pro/">NetVision</a>.</div>
 <div>✍️ I work with the backend and know a little frontend.</div>
-<div>⏰ A lot of work with the API and server configuration (VPS, Nginx, Docker and e.g.).</div>
-<div>🧠 Also train algorithms, deepen Python's knowledge, learn JS with Vue3 and have plans for Go with gRPC.</div>
+<div>⏰ A lot of work with microservices, ranging from simple handlers to cores for processing BigData and video streams.</div>
+<div>🧠 Also train <a href="https://leetcode.com/">algorithms</a>, deepen <a href="https://www.python.org/">Python</a>'s knowledge and learn <a href="https://go.dev/">Go</a>.</div>
 <div>📓 Read "Grokking Algorithms", Mark Lutz's "Learning Python" and some Computer Science literature.</div>
-<div>📝 Write my own <a href="https://github.com/AlexeyPlz/PET">PET</a> with Aiohttp & Asyncio.</div>
+<!--- <div>📝 Write my own <a href="https://github.com/AlexeyPlz/PET">PET</a> with Aiohttp & Asyncio.</div> --->
 <div>🤟 I really like cycling and <a href="https://steamcommunity.com/id/CyII4iK">computer games</a>.</div>
 <br>
 
-- Python3, JavaScript, HTML5, CSS3, ............................................................................................C++ ???
-- SQL, SQLite, PostgreSQL, SQLAlchemy
-- Dramatiq, RabbitMQ, Redis, WebSocket
-- FastAPI, Asyncio, Aoihttp, Django, DRF, Flask, Vue3, Scrapy, TelegramBot
-- Poetry, Pipenv, Alembic, Pydantic, Jinja2, WTForms, TKinter, BeautifulSoup
-- Unittest, Pytest
-- Docker, Docker-compose, Nginx, Gunicorn, Uvicorn
-- GitHub, GitHub Actions, Docker Hub, Bash, Linux Ubuntu, VSCode, Postman
-- Yandex.Cloud, Yandex.Tracker, Yandex.Webmaster, Notion, Miro, Figma
+- Python, Go, C++, JavaScript, HTML5, CSS3
+- SQL, PostgreSQL, SQLAlchemy
+- Dramatiq, Pika, RabbitMQ, Redis
+- FastAPI, Django, Flask, Vue3, Scrapy
+- Asyncio, Aoihttp, Alembic, Pydantic
+- Jinja2, WTForms, BeautifulSoup
+- Poetry, Pipenv, Unittest, Pytest
+- Krakend, Nginx, Gunicorn, Uvicorn
+- Bash, Linux Ubuntu, VSCode, Postman
+- GitHub, GitLab, DockerHub, Harbor
+- Docker, Docker-compose, Podman
+- YouTracker, Yandex.Tracker, Notion
+- Yandex.Cloud, Yandex.Webmaster, Miro, Figma
 <!---
-and <a href="https://steamcommunity.com/id/CyII4iK">computer games</a>.
 AlexeyPlz/AlexeyPlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
