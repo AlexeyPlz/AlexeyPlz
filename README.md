@@ -8,7 +8,7 @@
 
 - Python, Go, C++, JavaScript, HTML5, CSS3
 - SQL, PostgreSQL, SQLAlchemy
-- Dramatiq, Pika, RabbitMQ, Redis
+- Dramatiq, Pika, Celery, RabbitMQ, Redis
 - FastAPI, Django, Flask, Vue3, Scrapy
 - Asyncio, Aoihttp, Alembic, Pydantic
 - Jinja2, WTForms, BeautifulSoup
