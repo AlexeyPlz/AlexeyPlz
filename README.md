@@ -1,5 +1,5 @@
 <div>👋 Hi, I’m Alex, backend-developer with ~1.5 years of experience and work for <a href="https://net-vision.pro/">NetVision</a>.</div>
-<div>⏰ A lot of work with microservices, ranging from simple handlers to cores for processing BigData and video streams with vehicle and human face recognition.</div>
+<div>⏰ A lot of work with microservices, ranging from simple handlers to cores for processing BigData and video streams with recognition.</div>
 <div>🧠 Also train <a href="https://leetcode.com/">algorithms</a>, deepen <a href="https://www.python.org/">Python</a>'s knowledge and learn <a href="https://go.dev/">Go</a>.</div>
 <div>📓 Read "Grokking Algorithms", Mark Lutz's "Learning Python" and some Computer Science literature.</div>
 <div>📝 Write my own <a href="https://github.com/AlexeyPlz/PET">PET</a>.</div>
