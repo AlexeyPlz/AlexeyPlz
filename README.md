@@ -11,9 +11,10 @@ Programming languages:
 - JavaScript, HTML5, CSS3
 - SQL
 
-Databases:
+Databases & Brockers:
 - PostgreSQL
-- RabbitMQ, Redis
+- Redis, MongoDB
+- RabbitMQ
 
 Frameworks:
 - FastAPI, Django, Flask, Scrapy
