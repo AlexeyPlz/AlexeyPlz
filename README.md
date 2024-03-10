@@ -9,16 +9,17 @@
 Programming languages:
 - Python, Go, C++
 - JavaScript, HTML5, CSS3
-- SQL
+- SQL, GraphQL
 
 Databases & Brockers:
 - PostgreSQL
 - Redis, MongoDB
 - RabbitMQ
 
-Frameworks:
+Frameworks & Technologies:
 - FastAPI, Django, Flask, Scrapy
 - Vue3
+- gRPC
 
 Python's libraries and e.g.:
 - Dramatiq, Pika, SQLAlchemy
