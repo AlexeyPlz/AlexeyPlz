@@ -16,10 +16,9 @@ Databases & Brockers:
 - Redis, MongoDB
 - RabbitMQ
 
-Frameworks & Technologies:
+Frameworks:
 - FastAPI, Django, Flask, Scrapy
 - Vue3
-- gRPC
 
 Python's libraries and e.g.:
 - Dramatiq, Pika, SQLAlchemy
@@ -33,6 +32,7 @@ Server, IDE, TaskManager and e.g.:
 - Bash, Linux
 - Krakend, Nginx
 - Docker, Podman
+- REST API, gRPC, WebSocket, RTSP, HLS
 - GitHub, GitLab, DockerHub, Harbor
 - Visual Studio, Visual Studio Code, Postman
 - YouTracker, Yandex.Tracker, Notion
