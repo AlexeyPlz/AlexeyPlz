@@ -12,7 +12,7 @@ Programming languages:
 - SQL, GraphQL
 
 Databases & Brockers:
-- PostgreSQL
+- PostgreSQL + pgAdmin
 - Redis, MongoDB
 - RabbitMQ
 
