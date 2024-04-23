@@ -13,12 +13,15 @@ Programming languages:
 
 Databases & Brockers:
 - PostgreSQL + pgAdmin
-- Redis, MongoDB
+- Redis, MongoDB, Tarantool
 - RabbitMQ
 
 Frameworks:
 - FastAPI, Django, Flask, Scrapy
 - Vue3
+
+Go's libraries and e.g.:
+- Krakend
 
 Python's libraries and e.g.:
 - Dramatiq, Pika, SQLAlchemy
@@ -33,7 +36,8 @@ Server, IDE, TaskManager and e.g.:
 - Krakend, Nginx
 - Docker, Podman
 - REST API, gRPC, WebSocket, RTSP, HLS
-- GitHub, GitLab, DockerHub, Harbor
+- GitHub, GitLab
+- DockerHub, Harbor
 - Visual Studio, Visual Studio Code, Postman
 - YouTracker, Yandex.Tracker, Notion
 <!---
