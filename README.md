@@ -21,7 +21,7 @@ Frameworks:
 - Vue3
 
 Go's libraries and e.g.:
-- Krakend
+- Krakend, MediaMTX
 
 Python's libraries and e.g.:
 - Dramatiq, Pika, SQLAlchemy
@@ -32,9 +32,10 @@ Python's libraries and e.g.:
 - Gunicorn, Uvicorn
 
 Server, IDE, TaskManager and e.g.:
+- FFmpeg
 - Bash, Linux
-- Krakend, Nginx
-- Docker, Podman
+- Prometheus, Grafana, Nginx
+- Docker, Docker Compose, K8s, Podman
 - REST API, gRPC, WebSocket, RTSP, HLS
 - GitHub, GitLab
 - DockerHub, Harbor
