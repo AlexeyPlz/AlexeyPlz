@@ -27,7 +27,7 @@ Python's libraries and e.g.:
 - Dramatiq, Pika, SQLAlchemy
 - Asyncio, Aoihttp, Alembic, Pydantic
 - BeautifulSoup
-- Poetry, Pipenv
+- Pipx, Poetry, Pipenv
 - Unittest, Pytest
 - Gunicorn, Uvicorn
 
