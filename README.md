@@ -3,7 +3,6 @@
 <div>🧠 Also train <a href="https://leetcode.com/">algorithms</a>, deepen <a href="https://www.python.org/">Python</a>'s knowledge and learn <a href="https://go.dev/">Go</a>.</div>
 <div>📓 I have already read some literatur ("Grokking Algorithms", Mark Lutz's "Learning Python" and e.g.) and continue to learn new things.</div>
 <div>📝 Write my own <a href="https://github.com/AlexeyPlz/PET">PET</a>.</div>
-<div>🤟 I really like cycling, <a href="https://steamcommunity.com/id/CyII4iK">computer games</a> and hate e-books.</div>
 <br>
 
 Programming languages:
