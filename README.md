@@ -13,17 +13,17 @@ Programming languages:
 Databases & Brockers:
 - PostgreSQL
 - Redis
-- RabbitMQ
+- RabbitMQ, Apache Kafka
 
 JavaScript's stack:
 - Vue3
 
 Go's stack:
-- Krakend, MediaMTX
+- KrakenD, MediaMTX, Go2RTC
 
 Python's stack:
 - Asyncio, Aoihttp, FastAPI, Django, Flask
-- Alembic, Pydantic
+- NumPy, Pandas, Alembic, Pydantic
 - Dramatiq, Pika, SQLAlchemy
 - Scrapy, BeautifulSoup
 - Pyenv, Pipx, Poetry, Pipenv
