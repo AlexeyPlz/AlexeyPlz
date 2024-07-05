@@ -1,4 +1,4 @@
-<div>👋 Hi, I’m Alex, backend-developer with ~2 years of experience, work for <a href="https://net-vision.pro/">NetVision</a>.</div>
+<div>👋 Hi, I’m Alex, backend-developer with ~2,5 years of experience, work for <a href="https://net-vision.pro/">NetVision</a>.</div>
 <div>⏰ A lot of work with microservices, ranging from simple handlers to cores for processing BigData and video streams with recognition.</div>
 <div>🧠 Also train <a href="https://leetcode.com/">algorithms</a>, deepen <a href="https://www.python.org/">Python</a>'s knowledge and learn <a href="https://go.dev/">Go</a>.</div>
 <div>📓 I have already read some literatur ("Grokking Algorithms", Mark Lutz's "Learning Python" and e.g.) and continue to learn new things.</div>
@@ -34,8 +34,8 @@ Other:
 - FFmpeg
 - Bash, Linux
 - Prometheus, Grafana, Nginx
-- Docker, Docker Compose, K8s, Podman
-- REST API, gRPC, WebSocket, RTSP, HLS
+- Docker, Docker Compose
+- REST API, WebSocket, RTSP, HLS
 - GitHub, GitLab
 - DockerHub, Harbor
 - Visual Studio, Visual Studio Code, Postman
