@@ -7,7 +7,7 @@
 My projects:
 - TODO
 - TODO
-- TODO
+- [Calculation of the blood vessel](https://github.com/AlexeyPlz/University_Liquid)
 
 Programming languages:
 - Python, Go, C++
