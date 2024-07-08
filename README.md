@@ -1,10 +1,14 @@
 <div>👋 Hi, I’m Alex, backend-developer with ~2,5 years of experience, work for <a href="https://net-vision.pro/">NetVision</a>.</div>
 <div>⏰ A lot of work with microservices, ranging from simple handlers to cores for processing BigData and video streams with recognition.</div>
 <div>🧠 Also train <a href="https://leetcode.com/">algorithms</a>, deepen <a href="https://www.python.org/">Python</a>'s knowledge and learn <a href="https://go.dev/">Go</a>.</div>
-<div>📓 I have already read some literatur ("Grokking Algorithms", Mark Lutz's "Learning Python" and e.g.) and continue to learn new things.</div>
 <br>
 
-My projects:
+Books:
+- Aditya Bhargava's "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People"
+- Mark Lutz's "Learning Python: Powerful Object-Oriented Programming"
+- Martin Kleppmann's "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"
+
+Projects:
 - TODO
 - TODO
 - [Calculation of the blood vessel](https://github.com/AlexeyPlz/University_Liquid)
