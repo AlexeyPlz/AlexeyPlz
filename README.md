@@ -4,9 +4,10 @@
 <br>
 
 Books:
-- Aditya Bhargava's "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People"
-- Mark Lutz's "Learning Python: Powerful Object-Oriented Programming"
-- Martin Kleppmann's "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"
+- "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People" by Aditya Bhargava
+- "Learning Python: Powerful Object-Oriented Programming" by Mark Lutz
+- "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" by Martin Kleppmann
+- "Object-oriented design patterns" by Gamma Erich, Helm Richard, Johnson Robert, Vlissides John
 
 Projects:
 - TODO
