@@ -48,7 +48,7 @@ Other:
 - REST API, WebSocket, RTSP, HLS
 - GitHub, GitLab
 - DockerHub, Harbor
-- Visual Studio, Visual Studio Code, Postman
+- JetBrains IDEs, Microsoft VS, Postman
 - YouTracker, Yandex.Tracker, Notion
 <!---
 AlexeyPlz/AlexeyPlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
