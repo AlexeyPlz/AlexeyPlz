@@ -21,7 +21,7 @@ Programming languages:
 
 Databases / Brockers / Storages:
 - PostgreSQL
-- Redis
+- Redis, Memcached, MongoDB
 - RabbitMQ, Apache Kafka
 - Minio S3
 
@@ -30,11 +30,12 @@ JavaScript's stack:
 
 Go's stack:
 - KrakenD, MediaMTX, Go2RTC
+- Pprof
 
 Python's stack:
 - Asyncio, Aoihttp, FastAPI, Django, Flask
 - NumPy, Pandas, Alembic, Pydantic, Matplotlib
-- Dramatiq, Pika, SQLAlchemy
+- Celery, Dramatiq, Pika, SQLAlchemy
 - Scrapy, BeautifulSoup
 - Pyenv, Pipx, Poetry, Pipenv
 - Unittest, Pytest
@@ -45,7 +46,7 @@ Other:
 - Bash, Ubuntu
 - Prometheus, Grafana, Nginx
 - Docker, Docker Compose
-- REST API, WebSocket, RTSP, HLS
+- REST API, GraphQL, WebSocket, RTSP, HLS
 - GitHub, GitLab
 - DockerHub, Harbor
 - JetBrains IDEs, Microsoft VS, Postman
