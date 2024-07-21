@@ -46,7 +46,7 @@ Other:
 - Bash, Ubuntu
 - Prometheus, Grafana, Nginx
 - Docker, Docker Compose
-- REST API, gRPC, GraphQL, WebSocket, RTSP, HLS
+- REST API, gRPC, GraphQL, WebSocket, Webhook, RTSP, HLS
 - GitHub, GitLab
 - DockerHub, Harbor
 - JetBrains IDEs, Microsoft VS, Postman
