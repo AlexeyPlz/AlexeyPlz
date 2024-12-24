@@ -34,7 +34,7 @@ Go's stack:
 
 Python's stack:
 - Asyncio, Aoihttp, FastAPI, Django, Flask
-- NumPy, Pandas, Alembic, Pydantic, Matplotlib
+- OpenCV, NumPy, Alembic, Pydantic, Matplotlib
 - Celery, Dramatiq, Pika, SQLAlchemy
 - Scrapy, BeautifulSoup
 - Pyenv, Pipx, Poetry, Pipenv
